@@ -1,0 +1,69 @@
+========javabeans=============
+https://www.youtube.com/watch?v=io2TciOcF2Y
+https://www.youtube.com/watch?v=GOvak6awDrI&t=161s
+
+===== lombok api==================
+https://www.youtube.com/watch?v=4hlnLkwgxig&list=RDCMUC4o8Fdpv3g_AjgShAeivqpA&index=1
+https://www.youtube.com/watch?v=e1_9uPJ31Lw&list=RDCMUC4o8Fdpv3g_AjgShAeivqpA&index=2
+
+
+=======Dynamic Servlet Registration ============
+https://www.youtube.com/watch?v=aRscgj17HuI
+
+
+Model1,  MVC1 and  MVC2 architecture videos
+--------------------------------------------------------------------
+https://www.youtube.com/watch?v=HeA8AGNLjPw
+https://www.youtube.com/watch?v=_kKEjRUqVqs&t=13s
+https://www.youtube.com/watch?v=Zu5E8jGqoUU&t=19s
+
+=== Servlet Security | Session-1 | by Mr. Nataraj=====
+https://youtu.be/Ru3hEvbT2rA
+ Servlet Security | Session-2 | by Mr. Nataraj
+https://youtu.be/ml6f_1nwLMA
+
+
+===>servlet url patterns========
+https://www.youtube.com/watch?v=opQ5kqJgKE4
+https://www.youtube.com/watch?v=HXkvyuc3YWE
+https://www.youtube.com/watch?v=W3u8i23oL8o
+
+
+=============== Resume preparation &  interview tips ==============
+https://www.youtube.com/watch?v=mLrsZj088I0&t=1s
+https://www.youtube.com/watch?v=F4F4aWi_w
+
+====> generics ==========
+https://www.youtube.com/watch?v=Wb3HSRj1PAY
+========reflection api ==========
+https://www.youtube.com/watch?v=elFmT_d_OYE&t=198s
+
+servlet filters && wrappers
+=========================
+Servlet Filters | Session-1 | Mr. Nataraj
+https://youtu.be/40IsjGQVjYM
+Servlet Filters | Session-2 | Mr. Nataraj
+https://youtu.be/4k1dMoTiqjU
+Servlet Wrappers | Advanced Java | by Mr. Nataraj
+https://youtu.be/JJ3N9ZUj6nU
+
+==== Init params  in  servlet programming=====
+https://www.youtube.com/watch?v=DJP_IO0FyE8&t=5s
+
+=====  java  annotation fundamentals ==========
+https://www.youtube.com/watch?v=2t22AjtbyEY&t=25s
+https://www.youtube.com/watch?v=-bGWDg91vR4&t=41s
+
+
+===========mode1, mvc1,mvc2  vedios =================
+https://www.youtube.com/watch?v=s07-b1tdtkU
+https://www.youtube.com/watch?v=HeA8AGNLjPw&t=18s
+https://www.youtube.com/watch?v=_kKEjRUqVqs
+https://www.youtube.com/watch?v=s07-b1tdtkU
+https://www.youtube.com/watch?v=s07-b1tdtkU&t=17s
+https://www.youtube.com/watch?v=TiTJ9V1PHR4&t=2s
+
+===== language vs  technology  vs   framework======
+https://www.youtube.com/watch?v=Bw3v1b3WjDM&t=604s
+https://www.youtube.com/watch?v=aXSllXjkf4U&t=833s
+https://www.youtube.com/watch?v=bKi_cNUh-8w
